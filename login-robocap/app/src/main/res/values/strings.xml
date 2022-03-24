@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ROBOCAP</string>
+    <string name="email_address">Email address</string>
+    <string name="password">Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="don_t_remember_password">Don\'t Remember password?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="or">or</string>
+    <string name="Full_name">Full Name</string>
+
+
+    <!-- string for showing the text "Forgot your login details-->
+    <string name="forgot"><font color='c4c4c4'>Forgot your login details? </font><b>Get help logging in.</b></string>
+
+
+    <!-- string to show the text " Dont have an account-->
+    <string name="sign_up"><font color='c4c4c4'>Don\'t have an account? </font><b>Sign up.</b></string>
+</resources>
